@@ -16,7 +16,7 @@ Hier findest du meine Userscripts für den **Waze Map Editor (WME)**.
 ## Installation
 
 1. Tampermonkey installieren.
-2. Gewuenschtes `*.user.js` Script oeffnen.
+2. Gewünschtes  `*.user.js` Script öffnen.
 3. Script importieren und aktivieren.
 4. WME Website neu laden, dann Script-Tab oder Panel im Editor pruefen.
 
