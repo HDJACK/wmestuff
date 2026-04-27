@@ -43,3 +43,13 @@ Nutzung auf eigene Verantwortung.
 Discord: hdjack
 Waze: ogkm01
 
+
+## Skripts und Beispiele
+
+- WME Segment Length Highlighter
+  
+<img width="143" height="139" alt="image" src="https://github.com/user-attachments/assets/e81d99be-86a8-4962-aef6-a2bab837ed70" />
+
+<img width="316" height="599" alt="image" src="https://github.com/user-attachments/assets/8510b293-74d4-45c3-a0e0-78101d1bf2e5" />
+
+
