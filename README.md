@@ -52,4 +52,17 @@ Waze: ogkm01
 
 <img width="316" height="599" alt="image" src="https://github.com/user-attachments/assets/8510b293-74d4-45c3-a0e0-78101d1bf2e5" />
 
+- WME Map change notebook
+
+
+<img width="533" height="755" alt="image" src="https://github.com/user-attachments/assets/e8a90b79-3e4f-430f-b9ec-c796f91ea547" />
+
+<img width="524" height="751" alt="image" src="https://github.com/user-attachments/assets/40f6db46-8d17-4769-8191-6dd643c8940f" />
+
+<img width="553" height="553" alt="image" src="https://github.com/user-attachments/assets/3147cefb-0664-4bb3-82cd-6de9be7483cb" />
+
+<img width="525" height="743" alt="image" src="https://github.com/user-attachments/assets/39fa71d4-e309-46b0-b092-b2b48bea8761" />
+
+<img width="541" height="758" alt="image" src="https://github.com/user-attachments/assets/ff847f36-569e-4c91-b07a-8bf6cadd3440" />
+
 
