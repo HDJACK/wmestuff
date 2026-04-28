@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         UR Decision Assistant
-// @namespace    https://github.com/ogkm01
+// @namespace    ogkm01
 // @version      1.0.0
 // @description  WME: UR-Checkliste (DE), Lage-Check, Recherche — nur lesend, keine UR-Aktionen
 // @author       kev (ogkm01)
