@@ -72,7 +72,7 @@ Waze: ogkm01
 
 <img width="398" height="701" alt="image" src="https://github.com/user-attachments/assets/de9d62e5-f537-4633-8404-0353f151b9a9" />
 
-<img width="401" height="706" alt="image" src="https://github.com/user-attachments/assets/6f2c356e-ce17-4e64-b2e1-d7b4cbcae039" />
+<img width="401" height="704" alt="image" src="https://github.com/user-attachments/assets/c6438270-d7a0-4fd3-9421-5e3d559652b8" />
 
 <img width="304" height="736" alt="image" src="https://github.com/user-attachments/assets/e4c5f914-6ad2-4527-96c4-c3c87affd26f" />
 
