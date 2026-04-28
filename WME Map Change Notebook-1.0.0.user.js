@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         WME Map Change Notebook
-// @namespace    https://waze.com/editor
+// @namespace    ogkm01
 // @version      1.0.0
 // @description  Private notebook for WME
 // @author       kev (ogkm01)
