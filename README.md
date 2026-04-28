@@ -66,4 +66,14 @@ Waze: ogkm01
 
 <img width="541" height="758" alt="image" src="https://github.com/user-attachments/assets/ff847f36-569e-4c91-b07a-8bf6cadd3440" />
 
+- WME UR Decision Assistant
+
+<img width="403" height="711" alt="image" src="https://github.com/user-attachments/assets/5b4f6fdd-4d43-42e6-a3ba-f99c89936040" />
+
+<img width="398" height="701" alt="image" src="https://github.com/user-attachments/assets/de9d62e5-f537-4633-8404-0353f151b9a9" />
+
+<img width="401" height="706" alt="image" src="https://github.com/user-attachments/assets/6f2c356e-ce17-4e64-b2e1-d7b4cbcae039" />
+
+<img width="304" height="736" alt="image" src="https://github.com/user-attachments/assets/e4c5f914-6ad2-4527-96c4-c3c87affd26f" />
+
 
